@@ -1,3 +1,4 @@
-# Ethinicity Service
+# My Ethinicity Service
+NOT RACISM.
 
-Implement racism (or do not) into your game.
+WORK IN PROGRESS.
